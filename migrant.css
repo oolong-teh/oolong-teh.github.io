@@ -1,0 +1,252 @@
+body {
+	background-color: #a11308;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.container2 {
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 6%;
+	margin-bottom: 10%;
+}
+
+.container1 {
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.container3 {
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 7%;
+	margin-bottom: 10%;
+}
+
+.container4 {
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: white;
+	align-items: center;
+}
+
+#projectName {
+	font-weight: bold;
+}
+
+/*.arrow {
+	float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 18%;
+}*/
+
+nav {
+	position: fixed;
+	top: 0;
+	padding-left: 5%;
+	background-color: #a11308;
+	width: 100%;
+	font-size: 35px;
+}
+
+/*PAGE: MIGRANT*/
+
+.intro {
+	margin-top: 15%;
+	font-size: 80px;
+}
+
+.speculative {
+	font-style: italic;
+}
+
+.remove {
+	text-decoration: none;
+}
+/*PAGE: PASSWORD*/
+.password {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 30%;
+    font-size: 50px;
+    background-color: #a11308;
+    border: none;
+    border-bottom-style: solid;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.passwordLogo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.posterHeads {
+	font-size: 60px;
+	text-align: center;
+}
+
+
+/*PAGE: 2018*/
+
+.largeText {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.largeText2 {
+	font-size: 50px;
+}
+
+.container2018 {
+	margin-top: 10%;
+}
+
+/*PAGE: 2068*/
+
+.chapterInfo {
+	font-weight: bold;
+	font-size: 50px;
+	margin-left: 7%;
+}
+
+.story {
+	font-size: 40px;
+	line-height: 48px;
+	margin-right: 7%;
+	margin-left: 7%;
+	margin-top: 5%;
+}
+
+/*PAGE: Journey*/
+
+#map {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 80%;
+	top: 0;
+}
+
+/*PAGE: Rights*/
+
+.largeText3 {
+	font-size: 150px;
+}
+
+.rightsText {
+	font-size: 100px;
+}
+
+/*PAGE: Index*/
+.indexContainer {
+	margin-top: 3%;
+}
+
+#logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*PAGE: Design*/
+.largeText4 {
+	font-size: 60px;
+}
+
+#designManif {
+	margin-bottom: 5%;
+}
+
+#speculative {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+/*PAGE: Design*/
+
+.wall {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+}
+
+/*PAGE: AWARENESS*/
+.imgSET {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.imgSET2 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.imgSET3 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.imgSET4 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.imgSET5 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+
+/*PAGE: Journey*/
+
+/*PAGE: Journey*/
+.borderText {
+	font-size: 80px;
+}
+
+.borderContainer {
+	margin-left: 3%;
+}
+
+/*PAGE: MEDIA QUERIES*/
+
+/*@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+*/
